@@ -1,9 +1,0 @@
-freertos_xiaosizhou\drv_wit_c_sdk.o: ..\DriversBsp\Drv_wit_c_sdk.c
-freertos_xiaosizhou\drv_wit_c_sdk.o: ..\DriversBsp\Drv_wit_c_sdk.h
-freertos_xiaosizhou\drv_wit_c_sdk.o: D:\mdk\ARM\RAMCC\Bin\..\include\stdint.h
-freertos_xiaosizhou\drv_wit_c_sdk.o: D:\mdk\ARM\RAMCC\Bin\..\include\stdio.h
-freertos_xiaosizhou\drv_wit_c_sdk.o: D:\mdk\ARM\RAMCC\Bin\..\include\string.h
-freertos_xiaosizhou\drv_wit_c_sdk.o: ..\DriversBsp\Drv_REG.h
-freertos_xiaosizhou\drv_wit_c_sdk.o: ../719-MAV/719_Interface.h
-freertos_xiaosizhou\drv_wit_c_sdk.o: ../DriversBsp/Drv_wit_c_sdk.h
-freertos_xiaosizhou\drv_wit_c_sdk.o: D:\mdk\ARM\RAMCC\Bin\..\include\stdarg.h
