@@ -1,8 +1,8 @@
 freertos_xiaosizhou\cmsis_os2.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c
-freertos_xiaosizhou\cmsis_os2.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+freertos_xiaosizhou\cmsis_os2.o: D:\mdk\ARM\RAMCC\Bin\..\include\string.h
 freertos_xiaosizhou\cmsis_os2.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h
-freertos_xiaosizhou\cmsis_os2.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-freertos_xiaosizhou\cmsis_os2.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+freertos_xiaosizhou\cmsis_os2.o: D:\mdk\ARM\RAMCC\Bin\..\include\stdint.h
+freertos_xiaosizhou\cmsis_os2.o: D:\mdk\ARM\RAMCC\Bin\..\include\stddef.h
 freertos_xiaosizhou\cmsis_os2.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 freertos_xiaosizhou\cmsis_os2.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
 freertos_xiaosizhou\cmsis_os2.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h

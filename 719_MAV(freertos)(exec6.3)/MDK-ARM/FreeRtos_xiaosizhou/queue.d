@@ -1,9 +1,9 @@
 freertos_xiaosizhou\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
-freertos_xiaosizhou\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-freertos_xiaosizhou\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+freertos_xiaosizhou\queue.o: D:\mdk\ARM\RAMCC\Bin\..\include\stdlib.h
+freertos_xiaosizhou\queue.o: D:\mdk\ARM\RAMCC\Bin\..\include\string.h
 freertos_xiaosizhou\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-freertos_xiaosizhou\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-freertos_xiaosizhou\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+freertos_xiaosizhou\queue.o: D:\mdk\ARM\RAMCC\Bin\..\include\stddef.h
+freertos_xiaosizhou\queue.o: D:\mdk\ARM\RAMCC\Bin\..\include\stdint.h
 freertos_xiaosizhou\queue.o: ../Core/Inc/FreeRTOSConfig.h
 freertos_xiaosizhou\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 freertos_xiaosizhou\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

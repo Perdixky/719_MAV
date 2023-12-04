@@ -1,8 +1,8 @@
 freertos_xiaosizhou\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
-freertos_xiaosizhou\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+freertos_xiaosizhou\list.o: D:\mdk\ARM\RAMCC\Bin\..\include\stdlib.h
 freertos_xiaosizhou\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-freertos_xiaosizhou\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-freertos_xiaosizhou\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+freertos_xiaosizhou\list.o: D:\mdk\ARM\RAMCC\Bin\..\include\stddef.h
+freertos_xiaosizhou\list.o: D:\mdk\ARM\RAMCC\Bin\..\include\stdint.h
 freertos_xiaosizhou\list.o: ../Core/Inc/FreeRTOSConfig.h
 freertos_xiaosizhou\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 freertos_xiaosizhou\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

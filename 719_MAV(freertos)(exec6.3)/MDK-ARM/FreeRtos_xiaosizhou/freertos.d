@@ -1,7 +1,7 @@
 freertos_xiaosizhou\freertos.o: ../Core/Src/freertos.c
 freertos_xiaosizhou\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-freertos_xiaosizhou\freertos.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-freertos_xiaosizhou\freertos.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+freertos_xiaosizhou\freertos.o: D:\mdk\ARM\RAMCC\Bin\..\include\stddef.h
+freertos_xiaosizhou\freertos.o: D:\mdk\ARM\RAMCC\Bin\..\include\stdint.h
 freertos_xiaosizhou\freertos.o: ../Core/Inc/FreeRTOSConfig.h
 freertos_xiaosizhou\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 freertos_xiaosizhou\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
@@ -40,7 +40,7 @@ freertos_xiaosizhou\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ha
 freertos_xiaosizhou\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h
 freertos_xiaosizhou\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h
 freertos_xiaosizhou\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h
-freertos_xiaosizhou\freertos.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+freertos_xiaosizhou\freertos.o: D:\mdk\ARM\RAMCC\Bin\..\include\stdio.h
 freertos_xiaosizhou\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os.h
 freertos_xiaosizhou\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h
 freertos_xiaosizhou\freertos.o: ../Core/Inc/gpio.h
@@ -49,10 +49,10 @@ freertos_xiaosizhou\freertos.o: ../719-MAV/719_FC.h
 freertos_xiaosizhou\freertos.o: ../719-MAV/structconfig.h
 freertos_xiaosizhou\freertos.o: ../719-MAV/719_Interface.h
 freertos_xiaosizhou\freertos.o: ../DriversBsp/Drv_wit_c_sdk.h
-freertos_xiaosizhou\freertos.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+freertos_xiaosizhou\freertos.o: D:\mdk\ARM\RAMCC\Bin\..\include\string.h
 freertos_xiaosizhou\freertos.o: ../DriversBsp/Drv_REG.h
 freertos_xiaosizhou\freertos.o: ../719-MAV/719_Interface.h
-freertos_xiaosizhou\freertos.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+freertos_xiaosizhou\freertos.o: D:\mdk\ARM\RAMCC\Bin\..\include\stdarg.h
 freertos_xiaosizhou\freertos.o: ../Core/Inc/tim.h
 freertos_xiaosizhou\freertos.o: ../719-MAV/719_PID.h
 freertos_xiaosizhou\freertos.o: ../719-MAV/719_FC.h

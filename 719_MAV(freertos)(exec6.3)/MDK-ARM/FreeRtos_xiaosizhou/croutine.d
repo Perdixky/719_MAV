@@ -1,7 +1,7 @@
 freertos_xiaosizhou\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
 freertos_xiaosizhou\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-freertos_xiaosizhou\croutine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-freertos_xiaosizhou\croutine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+freertos_xiaosizhou\croutine.o: D:\mdk\ARM\RAMCC\Bin\..\include\stddef.h
+freertos_xiaosizhou\croutine.o: D:\mdk\ARM\RAMCC\Bin\..\include\stdint.h
 freertos_xiaosizhou\croutine.o: ../Core/Inc/FreeRTOSConfig.h
 freertos_xiaosizhou\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 freertos_xiaosizhou\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

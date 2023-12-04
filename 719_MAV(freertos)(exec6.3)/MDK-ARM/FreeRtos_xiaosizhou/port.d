@@ -1,7 +1,7 @@
 freertos_xiaosizhou\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
 freertos_xiaosizhou\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-freertos_xiaosizhou\port.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-freertos_xiaosizhou\port.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+freertos_xiaosizhou\port.o: D:\mdk\ARM\RAMCC\Bin\..\include\stddef.h
+freertos_xiaosizhou\port.o: D:\mdk\ARM\RAMCC\Bin\..\include\stdint.h
 freertos_xiaosizhou\port.o: ../Core/Inc/FreeRTOSConfig.h
 freertos_xiaosizhou\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 freertos_xiaosizhou\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
